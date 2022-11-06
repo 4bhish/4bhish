@@ -1,19 +1,17 @@
 <h1 align="center">Hi 👋, I'm Abhishek Hadimani</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
-- 🔭 I’m currently working on [my portfolio](abhishekhadimani.netlify.app)
-
 - 🌱 I’m currently learning **HTML5,CSS,nodeJS,vanillaJS,web hosting and ReactJS.**
 
 - 👯 I’m looking to collaborate on **React**
 
 - 👨‍💻 All of my projects are available at [abhishekhadimani.netlify.app](abhishekhadimani.netlify.app)
 
-- 📝 I regularly write articles on [abhishekhadimani.netlify.app/blogs](abhishekhadimani.netlify.app/blogs)
+- 📝 I wrote articles technical and non-technical on [abhishekhadimani.netlify.app/blogs](abhishekhadimani.netlify.app/blogs)
 
 - 💬 Ask me about **react,nodejs and web hosting**
 
-- 📫 How to reach me **abhihadimani143@gmail.coom**
+- 📫 How to reach me? mail me at- **abhihadimani143@gmail.coom**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
